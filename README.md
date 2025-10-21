@@ -24,16 +24,6 @@ Este projeto foi criado como parte do **Exercício 3** da disciplina de Desenvol
 
 ---
 
-## 📷 Capturas de Tela
-
-| Tela Principal | Exemplo de Operação |
-|----------------|----------------------|
-| <img src="https://via.placeholder.com/250x500?text=Calculadora+Nice" width="250"/> | <img src="https://via.placeholder.com/250x500?text=Resultado+de+8%2B2" width="250"/> |
-
-> 💡 Você pode substituir essas imagens pelos prints reais do seu app (basta arrastar os screenshots para o GitHub e copiar os links gerados).
-
----
-
 ## 🛠️ Como Executar o Projeto
 
 1. Clone este repositório:
